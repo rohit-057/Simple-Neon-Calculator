@@ -1,1 +1,1 @@
-here it is a simple calculator with some neon effects
+Here it is a simple calculator with some neon effects
